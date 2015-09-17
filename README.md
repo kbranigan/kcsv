@@ -1,7 +1,7 @@
 
-= Fast CSV parser written in C
+# Fast CSV parser written in C
 
-- Supports:
+## Supports:
 
 1. Automatically figures out the field seperator using character distributions (from a list: ",|\t;")
 2. Supports comments in CSV file (#)  even though this is not part of the standard
