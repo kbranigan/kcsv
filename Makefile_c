@@ -1,0 +1,2 @@
+all:
+	cc -O3 kcsv.c -o kcsv -DNO_RUBY

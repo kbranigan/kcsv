@@ -1,0 +1,8 @@
+id,created_at,from_user,to_user,language,text
+1,today,me,you,english,"This is a test
+of embedded returns"
+1,today,me,you,english,"This is a tese
+of embedded retu
+rns"
+2,today,me,you,english,"hi"
+4,unicode,Hélène,geg
